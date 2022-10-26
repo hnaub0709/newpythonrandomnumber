@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: grid;
+  place-content: center;
+  place-items: center;
+  gap: 15px;
+  margin-top: 10%;
+}
+
+#number {
+  font-size: 40px;
+}
+
+#generate-Btn {
+  background-color: black;
+  color: white;
+  width: 10rem;
+  height: 3rem;
+  font-size: 18px;
+}
